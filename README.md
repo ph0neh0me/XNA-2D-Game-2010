@@ -1,5 +1,8 @@
 # XNA 2D Game (2010)
 
+<img width="1220" height="635" alt="image" src="https://github.com/user-attachments/assets/9401886f-bfcb-4d3c-9b8e-7c574274978e" />
+
+
 This is a very old project I created when I was around 16 years old, using the Microsoft XNA Framework.
 
 The project represents an early attempt at building a 2D hack-and-slash style game, featuring:
