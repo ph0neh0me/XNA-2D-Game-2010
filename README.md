@@ -9,16 +9,18 @@ The project represents an early attempt at building a 2D hack-and-slash style ga
 - simple combat interactions
 - a main character personally drawn in MS Paint (yes, really lol)
 
+## Technologies
+
+- C#
+- Microsoft XNA Framework
+
 ## Note
 
 This repository is kept purely for historical and archival purposes.
 
 The code does not reflect my current coding standards, structure, or practices. It is preserved as a snapshot of my early experience and learning in programming.
 
-## Technologies
-
-- C#
-- Microsoft XNA Framework
+As you can see, I've even pushed the bin/obj directories :)
 
 ---
 
