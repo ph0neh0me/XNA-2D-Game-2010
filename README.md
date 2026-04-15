@@ -7,7 +7,7 @@ The project represents an early attempt at building a 2D hack-and-slash style ga
 - basic animation handling
 - collision detection
 - simple combat interactions
-- a main character personally drawn in Paint3D (yes, really lol)
+- a main character personally drawn in MS Paint (yes, really lol)
 
 ## Note
 
